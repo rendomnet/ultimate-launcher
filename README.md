@@ -1,2 +1,2 @@
-# ultimate-launcher
+# Kraken (formerly) ultimate-launcher
 Ultimate launcher releases
